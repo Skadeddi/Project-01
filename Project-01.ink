@@ -63,6 +63,7 @@ You swim down the stairs and surface in a dim hallway, lit only by holes in the 
 
 == MainGate ==
 You are in the main courtyard, right outside the main gate. You see a large set of double doors leading into the main tower and a building next to it that looks like a prison.
+{&The water is shimmering. | The seaweed slithers. | There are fish swimming underneath the boat.}
 
 + [Go to the prison.] ->DungeonEntrance
 + [Go into the main tower.] -> Tower
