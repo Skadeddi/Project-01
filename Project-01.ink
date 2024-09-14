@@ -53,7 +53,7 @@ What do you use?
 You try to pry the door open with the iron bar, but it doesn't budge. -> InnerCell
 
 == DungeonEntrance ==
-{You and your boat drift into the main room of the prison. You want to go explore the rest of the castle, but you notice a stairway leading down further into the water. From the looks of the stairway, there's a chance that the lower floor still has some air on the ceiling. | You are in the dungeon entrance.}
+{You and your boat drift into the main room of the prison. You notice a stairway leading down further into the water. From the looks of the stairway, there's a chance that the lower floor still has some air on the ceiling. | You are in the dungeon entrance.}
 
 + [Leave the prison.] -> MainGate
 * [Swim down to the lower level.]
